@@ -1,0 +1,6 @@
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrograTresParcialUno\PrograTresParcialUno\bin\Debug\PrograTresParcialUno.exe.config
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrograTresParcialUno\PrograTresParcialUno\obj\Debug\PrograTresParcialUno.csprojResolveAssemblyReference.cache
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrograTresParcialUno\PrograTresParcialUno\bin\Debug\PrograTresParcialUno.exe
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrograTresParcialUno\PrograTresParcialUno\bin\Debug\PrograTresParcialUno.pdb
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrograTresParcialUno\PrograTresParcialUno\obj\Debug\PrograTresParcialUno.exe
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrograTresParcialUno\PrograTresParcialUno\obj\Debug\PrograTresParcialUno.pdb
